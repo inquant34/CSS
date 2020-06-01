@@ -1,0 +1,144 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 300%;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 8px;
+  width: 5%;
+  margin: 100px auto;
+}
+
+a {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  text-decoration: none;
+  margin: 10px 80px;
+}
+
+a:hover{
+  color: #303960;
+}
+
+p {
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #faeee7;
+  padding-top: 30px;
+}
+
+.middle-container {
+  background-color: #fce8d5;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.bottom-container {
+  background-color: #fff3cd;
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.subtitle {
+  font-weight: normal;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.anon-img {
+  width: 140px;
+  height: 140px;
+}
+
+.computer-gif {
+  width: 140px;
+  height: 140px;
+  float: left;
+  margin-right: 30px;
+}
+
+.book-img {
+  width: 140px;
+  height: 140px;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+  background-color: #0e9aa7;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.copyright{
+  margin-top: 30px;
+  font-size: 0.75rem;
+  color:#12947f;
+}
